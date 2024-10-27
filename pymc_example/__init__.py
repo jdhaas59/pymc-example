@@ -1,4 +1,4 @@
-"""Top-level module for package_name."""
+"""Top-level module for pymc_example."""
 from beartype.claw import beartype_this_package
 
 from .model import my_model
